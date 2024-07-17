@@ -4,6 +4,5 @@ BATCH_SIZE: 16
 INCLUDE_TOP: False
 EPOCHS: 1
 CLASSES: 2
-save_weights_only: True
 WEIGHTS: imagenet
 LEARNING_RATE: 0.01
